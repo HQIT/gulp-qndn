@@ -1,6 +1,6 @@
 {
   "name": "gulp-qndn",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Qiniu DN gulp tasks.",
   "main": "index.js",
   "scripts": {
